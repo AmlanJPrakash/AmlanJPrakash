@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmlanJPrakash
-- 👀 I’m interested in Developing and designing
-- 🌱 I’m currently learning development 
+- 👀 I’m interested in UI/UX designing
 - 💞️ I’m looking to collaborate on how to improve design
 - 📫 How to reach me insta:amlanjprakash
 - 🌼 I love to design
